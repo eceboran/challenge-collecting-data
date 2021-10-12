@@ -9,9 +9,10 @@ This project is a part of the [Becode.org AI Bootcamp](https://becode.org/learn/
 ## Repo architecture
 
 Challenge Collecting Data
+
 │
-│   README.md      :explains the project
-│   project.ipynb  :Jupyter Notebook script file with main code
+│	README.md      :explains the project
+│	project.ipynb  :Jupyter Notebook script file with main code
 
 ## Installation
 
@@ -32,5 +33,7 @@ We are currently participating in the [Becode.org AI Bootcamp](https://becode.or
 
 ## Contributors
 [agilepydev](https://github.com/agilepydev)
+
 [eceboran](https://github.com/eceboran)
+
 [kpranke](https://github.com/kpranke)
