@@ -5,7 +5,7 @@ This project is a part of the [Becode.org AI Bootcamp](https://becode.org/learn/
 
 ![Real Estate!](https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-After researching, we decided to retrieve data from the [IMMOWEB.BE](https://www.immoweb.be/) website as it is one of the leading property portal in Belgium with a sufficient number of listings in order to scrape 10 000 properties for sales. Being able to scrape from one website, meant we had to write the scraping code just once.
+After researching, we decided to retrieve data from the [IMMOWEB.BE](https://www.immoweb.be/) as it is one of the leading property portals in Belgium with a sufficient number of listings in order to scrape 10 000 properties for sales. Being able to scrape from one website, meant we had to write the scraping code just once.
 
 ![Immoweb!](https://assets.immoweb.be/57/images/logos/brand-logo.svg) 
 
@@ -15,11 +15,8 @@ The dataset should consist of 10 000 inputs of data from all of Belgium and be p
 
 ## Repo architecture
 
-Challenge Collecting Data
-
-│
-│	README.md      :explains the project
-│	project.ipynb  :Jupyter Notebook script file with main code
+* README.md      :explains the project
+* project.ipynb  :Jupyter Notebook script file with main code
 
 ## Installation
 
