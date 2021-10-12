@@ -26,7 +26,7 @@ Challenge Collecting Data
 - Duration: `3 days`
 - Deadline: `13/10/2021 16:30`
 
-This is the first web scraping project within the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) to test our understanding of webscraping with Python (approx. 4 weeks from the start of the programme). The full duration of the programme is 7 months. 
+This is the first web scraping project within the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) to test our understanding of webscraping with Python (approx. 4 weeks from the start of the programme). The full duration of the BeCode programme is 7 months. 
 
 ## Personal situation
 We are currently participating in the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) to upskill into a career in data science. 
