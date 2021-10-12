@@ -1,10 +1,17 @@
 # challenge-collecting-data
 
 ## Description
-This project is a part of the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) programme. The task is to build a basis for a dataset for the real estate company "ImmoEliza", which wants to create a machine learning model to make price predictions on real estate sales in Belgium. The dataset should consist of 10000 inputs of data from all of Belgium and be provided in a .csv format. The dataset must be clean and, as much as possible, contain mostly numerical/binary values.
+This project is a part of the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) programme. The task is to build a basis for a dataset for the real estate company "ImmoEliza", which wants to create a machine learning model to make price predictions on real estate sales in Belgium. 
 
 ![Real Estate!](https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+After researching, we decided to retrieve data from the [IMMOWEB.BE](https://www.immoweb.be/) website as it is one of the leading property portal in Belgium with a sufficient number of listings in order to scrape 10 000 properties for sales. Being able to scrape from one website, meant we had to write the scraping code just once.
+
+![Immoweb!](https://assets.immoweb.be/57/images/logos/brand-logo.svg) 
+
 ## Objectives
+
+The dataset should consist of 10 000 inputs of data from all of Belgium and be provided in a .csv format. The dataset must be clean and, as much as possible, contain mostly numerical/binary values.
 
 ## Repo architecture
 
