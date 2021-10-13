@@ -16,14 +16,24 @@ The dataset should consist of 10 000 inputs of data from all of Belgium and be p
 
 ## Repo architecture
 
-* README.md      :explains the project
-* project.ipynb  :Jupyter Notebook script file with main code
+* README.md     
+* save_listing_links_from_search_pages.ipynb  
+* save_listing_contents.ipynb 
+* retrieve_info_from_pages.ipynb 
+* clean_csv_data.ipynb
 
 ## Installation
 
 `git clone` this repository into your local environment. 
 
 ## Usage
+
+Run step by step the following files:
+
+* save_listing_links_from_search_pages.ipynb  
+* save_listing_contents.ipynb 
+* retrieve_info_from_pages.ipynb 
+* clean_csv_data.ipynb
 
 ## Timeline
 *October 2021*
