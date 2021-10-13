@@ -1,3 +1,5 @@
 geckodriver.log
 my_env/*
+test_code_ece/*
 data/contents/*
+.ipynb_checkpoints/*
