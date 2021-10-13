@@ -15,8 +15,8 @@ The dataset should consist of 10 000 inputs of data from all of Belgium and be p
 
 ## Repo architecture
 
-* README.md      :explains the project
-* project.ipynb  :Jupyter Notebook script file with main code
+* README.md      : explains the project
+* project.ipynb  : Jupyter Notebook script file with main code
 
 ## Installation
 
