@@ -1,6 +1,5 @@
 # challenge-collecting-data
-<<<<<<< HEAD
-=======
+
 
 ## Description
 This project is a part of the [Becode.org AI Bootcamp](https://becode.org/learn/ai-bootcamp/) programme. The task is to build a basis for a dataset for the real estate company "ImmoEliza", which wants to create a machine learning model to make price predictions on real estate sales in Belgium. 
@@ -43,4 +42,3 @@ We are currently participating in the [Becode.org AI Bootcamp](https://becode.or
 [eceboran](https://github.com/eceboran)
 
 [kpranke](https://github.com/kpranke)
->>>>>>> origin/development
